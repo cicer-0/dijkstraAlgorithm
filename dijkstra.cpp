@@ -2,5 +2,6 @@
 using namespace std;
 int main(){
 cout<<"hola mundo cruel";
+cout<<"la vida es bonita xd";
 return 0;
 }
